@@ -84,9 +84,9 @@
 }
 
 .loader span {
-    background-image: -o-linear-gradient(right bottom, #fd562a, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
-    background-image: -webkit-gradient(linear, right bottom, left top, from(#fd562a), color-stop(rgba(211, 40, 83, 0.70)), color-stop(rgba(148, 31, 95, 0.80)), color-stop(#4f2155), to(#161634));
-    background-image: linear-gradient(to left top, #fd562a, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
+    background-image: -o-linear-gradient(right bottom, #4f2155, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
+    background-image: -webkit-gradient(linear, right bottom, left top, from(#4f2155), color-stop(rgba(211, 40, 83, 0.70)), color-stop(rgba(148, 31, 95, 0.80)), color-stop(#4f2155), to(#161634));
+    background-image: linear-gradient(to left top, #4f2155, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
     width: 6px;
     height: 90px;
     border-radius: 10px;
@@ -374,7 +374,7 @@ img {
 #scrollUp {
     width: 45px;
     height: 45px;
-    background-color: #fd562a;
+    background-color: #4f2155;
     bottom: 30px;
     right: 30px;
     color: #fff;
@@ -436,9 +436,9 @@ img {
     font-size: 17px;
     font-weight: 400;
     color: #fff;
-    background-image: -o-linear-gradient(right bottom, #fd562a, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
-    background-image: -webkit-gradient(linear, right bottom, left top, from(#fd562a), color-stop(rgba(211, 40, 83, 0.70)), color-stop(rgba(148, 31, 95, 0.80)), color-stop(#4f2155), to(#161634));
-    background-image: linear-gradient(to left top, #fd562a, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
+    background-image: -o-linear-gradient(right bottom, #4f2155, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
+    background-image: -webkit-gradient(linear, right bottom, left top, from(#4f2155), color-stop(rgba(211, 40, 83, 0.70)), color-stop(rgba(148, 31, 95, 0.80)), color-stop(#4f2155), to(#161634));
+    background-image: linear-gradient(to left top, #4f2155, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
     font-family: 'Roboto',
         sans-serif;
     border: none;
@@ -460,7 +460,7 @@ img {
     height: 100%;
     font-weight: 400;
     opacity: 0;
-    color: #fd562a;
+    color: #4f2155;
     background-color: #fff;
     border: none;
     -webkit-transition: all 0.4s;
@@ -481,7 +481,7 @@ img {
 }
 
 .btn-box:hover {
-    color: #fd562a;
+    color: #4f2155;
 }
 
 .btn.focus,
@@ -491,7 +491,7 @@ img {
 }
 
 .underline-hover {
-    color: #fd562a;
+    color: #4f2155;
     font-weight: 400;
     font-size: 16px;
     -webkit-transition: .3s;
@@ -501,7 +501,7 @@ img {
 
 .underline-hover:hover {
     text-decoration: underline;
-    color: #fd562a
+    color: #4f2155
 }
 
 .theme-btn-two {
@@ -511,7 +511,7 @@ img {
     font-size: 16px;
     font-weight: 600;
     color: #fff;
-    background: #fd562a;
+    background: #4f2155;
     border-radius: 2px;
     text-align: center;
     padding: 10px 30px;
@@ -524,7 +524,7 @@ img {
 
 .theme-btn-two:hover {
     color: #fff;
-    background: #fd562a;
+    background: #4f2155;
     font-weight: 600;
 }
 
@@ -559,7 +559,7 @@ img {
     font-size: 20px;
     text-transform: uppercase;
     letter-spacing: 3px;
-    color: #fd562a;
+    color: #4f2155;
 }
 
 .heading-title {
@@ -602,7 +602,7 @@ img {
 
 .welcome-content.home-2 h3 span {
     -webkit-text-stroke-width: 1.9px;
-    -webkit-text-stroke-color: #fd562a;
+    -webkit-text-stroke-color: #4f2155;
     color: transparent;
     text-transform: uppercase;
     letter-spacing: 4.2px;
@@ -680,7 +680,7 @@ img {
 }
 
 .welcome-slider .owl-dot.active {
-    background-color: #fd562a;
+    background-color: #4f2155;
     width: 25px;
 }
 
@@ -815,7 +815,7 @@ img {
 }
 
 .live-auction-content h4 a:hover {
-    color: #fd562a;
+    color: #4f2155;
 }
 
 .live-auction-content p {
@@ -881,9 +881,9 @@ img {
     -webkit-transition-duration: 500ms;
     -o-transition-duration: 500ms;
     transition-duration: 500ms;
-    background-image: -o-linear-gradient(right bottom, #fd562a, #d32852, #941f60, #4f2155, #161634);
-    background-image: -webkit-gradient(linear, right bottom, left top, from(#fd562a), color-stop(#d32852), color-stop(#941f60), color-stop(#4f2155), to(#161634));
-    background-image: linear-gradient(to left top, #fd562a, #d32852, #941f60, #4f2155, #161634);
+    background-image: -o-linear-gradient(right bottom, #4f2155, #d32852, #941f60, #4f2155, #161634);
+    background-image: -webkit-gradient(linear, right bottom, left top, from(#4f2155), color-stop(#d32852), color-stop(#941f60), color-stop(#4f2155), to(#161634));
+    background-image: linear-gradient(to left top, #4f2155, #d32852, #941f60, #4f2155, #161634);
     width: 250px;
     border-radius: 15px;
     display: inline-block;
@@ -916,7 +916,7 @@ img {
 .bid-btn {
     margin-top: 20px;
     display: block;
-    color: #fd562a;
+    color: #4f2155;
     text-transform: uppercase;
     letter-spacing: 1px;
     -webkit-transition-duration: 500ms;
@@ -1104,11 +1104,11 @@ img {
 }
 
 .single-roadmap {
-    background-image: -o-linear-gradient(right bottom, #fd562a, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
-    background-image: -webkit-gradient(linear, right bottom, left top, from(#fd562a), color-stop(rgba(211, 40, 83, 0.70)), color-stop(rgba(148, 31, 95, 0.80)), color-stop(#4f2155), to(#161634));
-    background-image: linear-gradient(to left top, #fd562a, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
-    -webkit-box-shadow: 10px 10px #fd562a;
-    box-shadow: 10px 10px #fd562a;
+    background-image: -o-linear-gradient(right bottom, #4f2155, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
+    background-image: -webkit-gradient(linear, right bottom, left top, from(#4f2155), color-stop(rgba(211, 40, 83, 0.70)), color-stop(rgba(148, 31, 95, 0.80)), color-stop(#4f2155), to(#161634));
+    background-image: linear-gradient(to left top, #4f2155, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
+    -webkit-box-shadow: 10px 10px #4f2155;
+    box-shadow: 10px 10px #4f2155;
 }
 
 .single-road-map-item.two::after {
@@ -1144,9 +1144,9 @@ img {
     top: 0px;
     width: 2px;
     height: 0px;
-    background-image: -o-linear-gradient(right bottom, #fd562a, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
-    background-image: -webkit-gradient(linear, right bottom, left top, from(#fd562a), color-stop(rgba(211, 40, 83, 0.70)), color-stop(rgba(148, 31, 95, 0.80)), color-stop(#4f2155), to(#161634));
-    background-image: linear-gradient(to left top, #fd562a, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
+    background-image: -o-linear-gradient(right bottom, #4f2155, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
+    background-image: -webkit-gradient(linear, right bottom, left top, from(#4f2155), color-stop(rgba(211, 40, 83, 0.70)), color-stop(rgba(148, 31, 95, 0.80)), color-stop(#4f2155), to(#161634));
+    background-image: linear-gradient(to left top, #4f2155, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
     -webkit-transition: all 600ms ease;
     -o-transition: all 600ms ease;
     transition: all 600ms ease;
@@ -1159,9 +1159,9 @@ img {
     bottom: 0px;
     width: 0px;
     height: 2px;
-    background-image: -o-linear-gradient(right bottom, #fd562a, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
-    background-image: -webkit-gradient(linear, right bottom, left top, from(#fd562a), color-stop(rgba(211, 40, 83, 0.70)), color-stop(rgba(148, 31, 95, 0.80)), color-stop(#4f2155), to(#161634));
-    background-image: linear-gradient(to left top, #fd562a, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
+    background-image: -o-linear-gradient(right bottom, #4f2155, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
+    background-image: -webkit-gradient(linear, right bottom, left top, from(#4f2155), color-stop(rgba(211, 40, 83, 0.70)), color-stop(rgba(148, 31, 95, 0.80)), color-stop(#4f2155), to(#161634));
+    background-image: linear-gradient(to left top, #4f2155, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
     -webkit-transition: all 600ms ease;
     -o-transition: all 600ms ease;
     transition: all 600ms ease;
@@ -1194,7 +1194,7 @@ img {
     bottom: 0px;
     width: 2px;
     height: 0px;
-    background-color: #fd562a;
+    background-color: #4f2155;
     -webkit-transition: all 600ms ease;
     -o-transition: all 600ms ease;
     transition: all 600ms ease;
@@ -1207,7 +1207,7 @@ img {
     top: 0px;
     width: 0px;
     height: 2px;
-    background-color: #fd562a;
+    background-color: #4f2155;
     -webkit-transition: all 600ms ease;
     -o-transition: all 600ms ease;
     transition: all 600ms ease;
@@ -1260,9 +1260,9 @@ img {
 }
 
 .single-team-area.two {
-    background-image: -o-linear-gradient(right bottom, #fd562a, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
-    background-image: -webkit-gradient(linear, right bottom, left top, from(#fd562a), color-stop(rgba(211, 40, 83, 0.70)), color-stop(rgba(148, 31, 95, 0.80)), color-stop(#4f2155), to(#161634));
-    background-image: linear-gradient(to left top, #fd562a, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
+    background-image: -o-linear-gradient(right bottom, #4f2155, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
+    background-image: -webkit-gradient(linear, right bottom, left top, from(#4f2155), color-stop(rgba(211, 40, 83, 0.70)), color-stop(rgba(148, 31, 95, 0.80)), color-stop(#4f2155), to(#161634));
+    background-image: linear-gradient(to left top, #4f2155, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
 }
 
 /* Top Sellers Css */
@@ -1271,9 +1271,9 @@ img {
 .single-sellers-card {
     position: relative;
     z-index: 1;
-    background-image: -o-linear-gradient(right bottom, #fd562a, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
-    background-image: -webkit-gradient(linear, right bottom, left top, from(#fd562a), color-stop(rgba(211, 40, 83, 0.70)), color-stop(rgba(148, 31, 95, 0.80)), color-stop(#4f2155), to(#161634));
-    background-image: linear-gradient(to left top, #fd562a, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
+    background-image: -o-linear-gradient(right bottom, #4f2155, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
+    background-image: -webkit-gradient(linear, right bottom, left top, from(#4f2155), color-stop(rgba(211, 40, 83, 0.70)), color-stop(rgba(148, 31, 95, 0.80)), color-stop(#4f2155), to(#161634));
+    background-image: linear-gradient(to left top, #4f2155, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
     padding: 20px 15px;
     border-radius: 10px;
 }
@@ -1319,7 +1319,7 @@ img {
 }
 
 .top-seller-area .owl-dot.active {
-    background-color: #fd562a;
+    background-color: #4f2155;
     width: 30px;
 }
 
@@ -1348,7 +1348,7 @@ img {
     background-color: rgba(15, 8, 38, 0.95);
     padding: 8px 20px;
     border-radius: 22px;
-    border: 2px solid #fd562a;
+    border: 2px solid #4f2155;
     display: inline-block;
 }
 
@@ -1444,9 +1444,9 @@ img {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    background-image: -o-linear-gradient(right bottom, #fd562a, rgba(211, 40, 83, 0.98), rgba(148, 31, 95, 0.90), #4f2155, #161634);
-    background-image: -webkit-gradient(linear, right bottom, left top, from(#fd562a), color-stop(rgba(211, 40, 83, 0.98)), color-stop(rgba(148, 31, 95, 0.90)), color-stop(#4f2155), to(#161634));
-    background-image: linear-gradient(to left top, #fd562a, rgba(211, 40, 83, 0.98), rgba(148, 31, 95, 0.90), #4f2155, #161634);
+    background-image: -o-linear-gradient(right bottom, #4f2155, rgba(211, 40, 83, 0.98), rgba(148, 31, 95, 0.90), #4f2155, #161634);
+    background-image: -webkit-gradient(linear, right bottom, left top, from(#4f2155), color-stop(rgba(211, 40, 83, 0.98)), color-stop(rgba(148, 31, 95, 0.90)), color-stop(#4f2155), to(#161634));
+    background-image: linear-gradient(to left top, #4f2155, rgba(211, 40, 83, 0.98), rgba(148, 31, 95, 0.90), #4f2155, #161634);
     padding: 20px;
 }
 
@@ -1514,7 +1514,7 @@ img {
 }
 
 .copy-right-content-text ul li a:hover {
-    color: #fd562a;
+    color: #4f2155;
 }
 
 .copy-right-area {
@@ -1546,11 +1546,11 @@ img {
 }
 
 .footer-single-widget ul li a:hover {
-    color: #fd562a;
+    color: #4f2155;
 }
 
 .footer-socila-icon a {
-    color: #fd562a;
+    color: #4f2155;
     font-size: 16px;
     margin-right: 10px;
     border: 1px solid rgba(253, 88, 42, 0.50);
@@ -1566,7 +1566,7 @@ img {
 }
 
 .footer-socila-icon a:hover {
-    background-color: #fd562a;
+    background-color: #4f2155;
     color: #fff;
 
 }
@@ -1604,7 +1604,7 @@ img {
     position: absolute;
     top: 0;
     right: 20%;
-    background-color: #fd562a;
+    background-color: #4f2155;
     font-size: 20px;
     height: 100%;
     width: 70px;
@@ -1642,7 +1642,7 @@ img {
 
 .portfolio-menu .btn {
     background-color: transparent;
-    border: 2px solid #fd562a;
+    border: 2px solid #4f2155;
     color: #fff;
     padding: 10px 30px;
     border-radius: 30px;
@@ -1653,7 +1653,7 @@ img {
 }
 
 .portfolio-menu .btn:hover {
-    background-color: #fd562a;
+    background-color: #4f2155;
 }
 
 .swiper-pagination-bullet {
@@ -1661,7 +1661,7 @@ img {
     height: 12px;
     display: inline-block;
     border-radius: 50%;
-    background: #fd562a;
+    background: #4f2155;
 
 }
 
@@ -1685,7 +1685,7 @@ img {
     text-align: center;
     font-size: 30px;
     border-radius: 20px;
-    border: 2px solid #fd562a;
+    border: 2px solid #4f2155;
     -webkit-transition-duration: 400ms;
     -o-transition-duration: 400ms;
     transition-duration: 400ms;
@@ -1698,7 +1698,7 @@ img {
 
 .explore-area-slider .owl-nav .owl-next:hover,
 .explore-area-slider .owl-nav .owl-prev:hover {
-    background-color: #fd562a;
+    background-color: #4f2155;
     color: #fff;
 }
 
@@ -1717,7 +1717,7 @@ img {
 	font-weight: 600;
 	margin-bottom: 10px;
 	font-family: 'Roboto', sans-serif;
-	color: #fd562a;
+	color: #4f2155;
 	text-transform: capitalize;
 	letter-spacing: 3px;
 }
@@ -1780,11 +1780,11 @@ img {
 }
 
 .blog-grid-text h3 a:hover {
-    color: #fd562a;
+    color: #4f2155;
 }
 
 .blog-btn a {
-    color: #fd562a;
+    color: #4f2155;
     font-size: 14px;
     text-transform: capitalize;
     -webkit-transition-duration: 500ms;
@@ -1800,7 +1800,7 @@ img {
     font-size: 18px;
     text-transform: capitalize;
     letter-spacing: 1px;
-    color: #fd562a;
+    color: #4f2155;
     margin-bottom: 10px;
     display: block;
 }
@@ -1887,13 +1887,13 @@ img {
 .login-area .form-control:focus {
     color: #212529;
     background-color: #fff;
-    border-color: #fd562a;
+    border-color: #4f2155;
     -webkit-box-shadow: none;
     box-shadow: none;
 }
 
 .login-area .login-submit {
-    background-color: #fd562a;
+    background-color: #4f2155;
     display: block;
     width: 100%;
     margin-top: 30px;
@@ -2024,7 +2024,7 @@ img {
 }
 
 .side-categories li p a:hover {
-    color: #fd562a;
+    color: #4f2155;
 }
 
 .side-categories li span {
@@ -2056,7 +2056,7 @@ img {
 }
 
 .tags-area li a:hover {
-    background-color: #fd562a;
+    background-color: #4f2155;
     border-color: transparent;
 }
 
@@ -2115,7 +2115,7 @@ img {
 }
 
 .recent-post-text h5 a:hover {
-    color: #fd562a;
+    color: #4f2155;
 }
 
 .post-meta {
@@ -2155,22 +2155,22 @@ img {
 
 .post-author i {
     margin-right: 3px;
-    color: #fd562a;
+    color: #4f2155;
 }
 
 .post-meta-date i {
     margin-right: 3px;
-    color: #fd562a;
+    color: #4f2155;
 }
 
 .meta-categories.post-cat i {
     margin-right: 3px;
-    color: #fd562a;
+    color: #4f2155;
 }
 
 .post-comment i {
     margin-right: 3px;
-    color: #fd562a;
+    color: #4f2155;
 }
 
 .blog-details-content h6 {
@@ -2188,7 +2188,7 @@ img {
 }
 
 .blog-details-area .swiper-pointer-events {
-    --swiper-theme-color: #fd562a;
+    --swiper-theme-color: #4f2155;
 }
 
 .comments-image {
@@ -2205,9 +2205,9 @@ img {
 }
 
 .single-comments-area {
-    background-image: -o-linear-gradient(right bottom, #fd562a, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
-    background-image: -webkit-gradient(linear, right bottom, left top, from(#fd562a), color-stop(rgba(211, 40, 83, 0.70)), color-stop(rgba(148, 31, 95, 0.80)), color-stop(#4f2155), to(#161634));
-    background-image: linear-gradient(to left top, #fd562a, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
+    background-image: -o-linear-gradient(right bottom, #4f2155, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
+    background-image: -webkit-gradient(linear, right bottom, left top, from(#4f2155), color-stop(rgba(211, 40, 83, 0.70)), color-stop(rgba(148, 31, 95, 0.80)), color-stop(#4f2155), to(#161634));
+    background-image: linear-gradient(to left top, #4f2155, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
     padding: 20px;
     border-radius: 15px;
     margin-bottom: 30px;
@@ -2241,7 +2241,7 @@ img {
 .blog-replat-btn {
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: #fd562a;
+    color: #4f2155;
     -webkit-transition-duration: 400ms;
     -o-transition-duration: 400ms;
     transition-duration: 400ms;
@@ -2288,7 +2288,7 @@ textarea.form-control {
 .nft-contact-from .form-control:focus {
     -webkit-box-shadow: none;
     box-shadow: none;
-    border-color: #fd562a;
+    border-color: #4f2155;
 }
 
 .form-outline .form-control {
@@ -2303,7 +2303,7 @@ textarea.form-control {
     border-radius: 0 10px 10px 0;
     height: 50px;
     width: 40px;
-    color: #fd562a;
+    color: #4f2155;
     position: absolute !important;
     right: 10px;
 }
@@ -2319,9 +2319,9 @@ textarea.form-control {
 
 .contact-meta-info-area {
     padding: 40px 20px;
-    background-image: -o-linear-gradient(right bottom, #fd562a, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
-    background-image: -webkit-gradient(linear, right bottom, left top, from(#fd562a), color-stop(rgba(211, 40, 83, 0.70)), color-stop(rgba(148, 31, 95, 0.80)), color-stop(#4f2155), to(#161634));
-    background-image: linear-gradient(to left top, #fd562a, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
+    background-image: -o-linear-gradient(right bottom, #4f2155, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
+    background-image: -webkit-gradient(linear, right bottom, left top, from(#4f2155), color-stop(rgba(211, 40, 83, 0.70)), color-stop(rgba(148, 31, 95, 0.80)), color-stop(#4f2155), to(#161634));
+    background-image: linear-gradient(to left top, #4f2155, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
     border-radius: 15px;
 }
 
@@ -2419,9 +2419,9 @@ textarea.form-control {
 
 .accordion-button:not(.collapsed) {
     color: #fff;
-    background-image: -o-linear-gradient(right bottom, #fd562a, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
-    background-image: -webkit-gradient(linear, right bottom, left top, from(#fd562a), color-stop(rgba(211, 40, 83, 0.70)), color-stop(rgba(148, 31, 95, 0.80)), color-stop(#4f2155), to(#161634));
-    background-image: linear-gradient(to left top, #fd562a, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
+    background-image: -o-linear-gradient(right bottom, #4f2155, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
+    background-image: -webkit-gradient(linear, right bottom, left top, from(#4f2155), color-stop(rgba(211, 40, 83, 0.70)), color-stop(rgba(148, 31, 95, 0.80)), color-stop(#4f2155), to(#161634));
+    background-image: linear-gradient(to left top, #4f2155, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
     -webkit-box-shadow: none;
     box-shadow: none;
 }
@@ -2489,7 +2489,7 @@ textarea.form-control {
 }
 
 .wallet-content-text h4 a:hover {
-    color: #fd562a;
+    color: #4f2155;
 }
 
 .wallet-content-text p {
@@ -2515,7 +2515,7 @@ textarea.form-control {
 }
 
 .single-wallet-area.two:hover {
-    border-left-color: #fd562a;
+    border-left-color: #4f2155;
 }
 
 /* Top Crypto Area Css */
@@ -2528,9 +2528,9 @@ textarea.form-control {
     margin-bottom: 50px;
     padding: 30px;
     border-radius: 0 0 50px 0;
-    background-image: -o-linear-gradient(right bottom, #fd562a, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
-    background-image: -webkit-gradient(linear, right bottom, left top, from(#fd562a), color-stop(rgba(211, 40, 83, 0.70)), color-stop(rgba(148, 31, 95, 0.80)), color-stop(#4f2155), to(#161634));
-    background-image: linear-gradient(to left top, #fd562a, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
+    background-image: -o-linear-gradient(right bottom, #4f2155, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
+    background-image: -webkit-gradient(linear, right bottom, left top, from(#4f2155), color-stop(rgba(211, 40, 83, 0.70)), color-stop(rgba(148, 31, 95, 0.80)), color-stop(#4f2155), to(#161634));
+    background-image: linear-gradient(to left top, #4f2155, rgba(211, 40, 83, 0.70), rgba(148, 31, 95, 0.80), #4f2155, #161634);
 }
 
 
@@ -2550,7 +2550,7 @@ textarea.form-control {
 }
 
 .crypto-content h5 span {
-    color: #fd562a;
+    color: #4f2155;
 }
 
 .crypto-content h2 {
@@ -2562,9 +2562,9 @@ textarea.form-control {
 /* Counter Area Css */
 
 .single-counter-2 {
-    background-image: -o-linear-gradient(right bottom, #fd562a, rgba(211, 40, 83, 0.98), rgba(148, 31, 95, 0.90), #4f2155, #161634);
-    background-image: -webkit-gradient(linear, right bottom, left top, from(#fd562a), color-stop(rgba(211, 40, 83, 0.98)), color-stop(rgba(148, 31, 95, 0.90)), color-stop(#4f2155), to(#161634));
-    background-image: linear-gradient(to left top, #fd562a, rgba(211, 40, 83, 0.98), rgba(148, 31, 95, 0.90), #4f2155, #161634);
+    background-image: -o-linear-gradient(right bottom, #4f2155, rgba(211, 40, 83, 0.98), rgba(148, 31, 95, 0.90), #4f2155, #161634);
+    background-image: -webkit-gradient(linear, right bottom, left top, from(#4f2155), color-stop(rgba(211, 40, 83, 0.98)), color-stop(rgba(148, 31, 95, 0.90)), color-stop(#4f2155), to(#161634));
+    background-image: linear-gradient(to left top, #4f2155, rgba(211, 40, 83, 0.98), rgba(148, 31, 95, 0.90), #4f2155, #161634);
     padding: 40px 20px;
     border-radius: 10px;
 }
@@ -3125,7 +3125,7 @@ textarea.form-control {
     }
 
     .profile-area .nav-pills .nav-link {
-        border: 2px solid #fd562a;
+        border: 2px solid #4f2155;
         margin: 5px;
         border-radius: 22px;
         padding: 5px 30px;
