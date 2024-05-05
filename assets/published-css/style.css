@@ -38,7 +38,7 @@
 /* Import Fonts & All CSS */
 
 @import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@500;600;700;800&family=Roboto:wght@400;500&display=swap');
-
+@import url('../../../node_modules/bootstrap-icons/font/bootstrap-icons.css');
 @import 'bootstrap.min.css';
 @import 'owl.carousel.min.css';
 @import 'magnific-popup.css';
