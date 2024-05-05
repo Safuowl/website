@@ -2542,24 +2542,6 @@ textarea.form-control {
     max-width: 250px;
     margin-right: 0px;
 }
-
-.crypto-content h5 {
-    font-size: 17px;
-    font-weight: 500;
-    letter-spacing: 1px;
-}
-
-.crypto-content h5 span {
-    color: #fd562a;
-}
-
-.crypto-content h2 {
-    font-size: 24px;
-    margin-bottom: 0;
-    font-family: 'Roboto',
-        sans-serif;
-}
-
 /* Counter Area Css */
 
 .single-counter-2 {
