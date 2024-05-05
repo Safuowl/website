@@ -2537,10 +2537,10 @@ textarea.form-control {
 .crypto-icon {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 70px;
-    flex: 0 0 70px;
-    width: 70px;
-    max-width: 70px;
-    margin-right: 20px;
+    flex: 0 0 250px;
+    width: 250px;
+    max-width: 250px;
+    margin-right: 0px;
 }
 
 .crypto-content h5 {
